@@ -1,4 +1,7 @@
 lienzo culinario
+conflicto3
 lienzo culinario 2
+pruebas de conflicto 1
 Probando Joaco
-Intentando subir mis cambios a dev
+Intentando subir mis cambios a dev m
+nuevo conflicto 
